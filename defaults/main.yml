@@ -4,6 +4,7 @@
 elastic_cerebro_listen_host: 0.0.0.0
 elastic_cerebro_port: 9000
 elastic_cerebro_version: 0.6.5
+elastic_cerebro_heap_size: 128m
 
 elasticsearch_cerebro_hosts:
   - host: http://localhost:9200
